@@ -1,0 +1,7 @@
+[
+  {"country":"India","coords":[20.59,78.96],"flag":"in.png"},
+  {"country":"Singapore","coords":[1.35,103.81],"flag":"sg.png"},
+  {"country":"Mexico","coords":[23.63,-102.55],"flag":"mx.png"},
+  {"country":"United States","coords":[37.09,-95.71],"flag":"us.png"},
+  {"country":"Taiwan","coords":[23.69,120.96],"flag":"tw.png"}
+]
